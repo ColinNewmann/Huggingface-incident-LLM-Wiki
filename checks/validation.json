@@ -1,0 +1,2313 @@
+{
+  "executed_at": "2026-11-23T21:55:19.387330+08:00",
+  "scope": "structural links, provenance, SVG syntax/accessibility and content organization; not a semantic truth or visual overlap proof",
+  "passed": 576,
+  "total": 576,
+  "failures": [],
+  "checks": [
+    {
+      "check": "index.html unique IDs",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/style.css",
+      "passed": true
+    },
+    {
+      "check": "index.html local #main",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #main",
+      "passed": true
+    },
+    {
+      "check": "index.html local slides.html",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/route.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/agent.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/egress.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/board.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W05",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W05",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/launchpad.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/file-read.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/template.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/auth.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/lateral.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/jwt.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/c2.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W10",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W10",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/causes.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/scorer.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/diagrams/defense.svg",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#sources",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#sources",
+      "passed": true
+    },
+    {
+      "check": "index.html local wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P01",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P01",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P02",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P02",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P03",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P03",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P04",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P04",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P05",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P05",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P06",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P06",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P07",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P07",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P08",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P08",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P09",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P09",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P10",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P10",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P11",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P11",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P12",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P12",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P13",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P13",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P14",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P14",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P15",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P15",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P16",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P16",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P17",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P17",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P18",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P18",
+      "passed": true
+    },
+    {
+      "check": "index.html local #P19",
+      "passed": true
+    },
+    {
+      "check": "index.html fragment #P19",
+      "passed": true
+    },
+    {
+      "check": "index.html local assets/slides.js",
+      "passed": true
+    },
+    {
+      "check": "slides.html unique IDs",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/style.css",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #main",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #main",
+      "passed": true
+    },
+    {
+      "check": "slides.html local slides.html",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W01",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W02",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/route.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/agent.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/egress.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/board.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W05",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W05",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/launchpad.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W06",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/file-read.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/template.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/auth.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/lateral.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/jwt.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/c2.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W10",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W10",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/causes.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W03",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/scorer.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W11",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/diagrams/defense.svg",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W12",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W04",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W07",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W08",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W09",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#sources",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#sources",
+      "passed": true
+    },
+    {
+      "check": "slides.html local wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment wiki.html#W13",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P01",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P01",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P02",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P02",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P03",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P03",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P04",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P04",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P05",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P05",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P06",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P06",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P07",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P07",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P08",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P08",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P09",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P09",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P10",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P10",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P11",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P11",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P12",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P12",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P13",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P13",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P14",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P14",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P15",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P15",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P16",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P16",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P17",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P17",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P18",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P18",
+      "passed": true
+    },
+    {
+      "check": "slides.html local #P19",
+      "passed": true
+    },
+    {
+      "check": "slides.html fragment #P19",
+      "passed": true
+    },
+    {
+      "check": "slides.html local assets/slides.js",
+      "passed": true
+    },
+    {
+      "check": "wiki.html unique IDs",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local assets/style.css",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #main",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #main",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local slides.html",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local slides.html",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local wiki.html",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W06",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W06",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W10",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W10",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S1.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S1.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S5",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S5",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S5.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S1",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S1.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S9",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S9",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S9.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W03",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S7",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S7",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S7.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W06",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W06",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S6",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S6",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S6.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S8.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S8.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W12",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W01",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W13",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S8",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S8.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S9",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S9",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S9.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W04",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W07",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W08",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W09",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S2",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S3",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #S4",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W02",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W05",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html fragment #W11",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S1.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S2.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S3.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S4.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S5.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S6.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S7.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S8.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/S9.txt",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local sources/manifest.json",
+      "passed": true
+    },
+    {
+      "check": "wiki.html local assets/wiki.js",
+      "passed": true
+    },
+    {
+      "check": "19 slides; 13 Wiki entries",
+      "passed": true
+    },
+    {
+      "check": "slide Wiki links",
+      "passed": true
+    },
+    {
+      "check": "titles concise",
+      "passed": true
+    },
+    {
+      "check": "single Markdown submission report",
+      "passed": true
+    },
+    {
+      "check": "no active lab/report HTML",
+      "passed": true
+    },
+    {
+      "check": "single clean stylesheet",
+      "passed": true
+    },
+    {
+      "check": "no experimental slides",
+      "passed": true
+    },
+    {
+      "check": "S1 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S2 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S3 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S4 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S5 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S6 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S7 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S8 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "S9 original snapshot hash",
+      "passed": true
+    },
+    {
+      "check": "W01 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W01 evidence S1",
+      "passed": true
+    },
+    {
+      "check": "W01 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W02 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W02 evidence S1",
+      "passed": true
+    },
+    {
+      "check": "W02 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "W02 evidence S5",
+      "passed": true
+    },
+    {
+      "check": "W03 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W03 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W03 evidence S3",
+      "passed": true
+    },
+    {
+      "check": "W04 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W04 evidence S1",
+      "passed": true
+    },
+    {
+      "check": "W04 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "W04 evidence S9",
+      "passed": true
+    },
+    {
+      "check": "W05 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W05 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "W05 evidence S3",
+      "passed": true
+    },
+    {
+      "check": "W05 evidence S3",
+      "passed": true
+    },
+    {
+      "check": "W06 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W06 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W06 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W07 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W07 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W07 evidence S7",
+      "passed": true
+    },
+    {
+      "check": "W08 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W08 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W08 evidence S6",
+      "passed": true
+    },
+    {
+      "check": "W09 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W09 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W09 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W09 evidence S8",
+      "passed": true
+    },
+    {
+      "check": "W09 evidence S8",
+      "passed": true
+    },
+    {
+      "check": "W10 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W10 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W10 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W11 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W11 evidence S3",
+      "passed": true
+    },
+    {
+      "check": "W11 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "W11 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "W12 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W12 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W12 evidence S8",
+      "passed": true
+    },
+    {
+      "check": "W12 evidence S9",
+      "passed": true
+    },
+    {
+      "check": "W13 related concepts",
+      "passed": true
+    },
+    {
+      "check": "W13 evidence S2",
+      "passed": true
+    },
+    {
+      "check": "W13 evidence S3",
+      "passed": true
+    },
+    {
+      "check": "W13 evidence S4",
+      "passed": true
+    },
+    {
+      "check": "14 standalone SVG diagrams",
+      "passed": true
+    },
+    {
+      "check": "agent accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "agent arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "agent no scripts",
+      "passed": true
+    },
+    {
+      "check": "auth accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "auth arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "auth no scripts",
+      "passed": true
+    },
+    {
+      "check": "board accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "board arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "board no scripts",
+      "passed": true
+    },
+    {
+      "check": "c2 accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "c2 arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "c2 no scripts",
+      "passed": true
+    },
+    {
+      "check": "causes accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "causes arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "causes no scripts",
+      "passed": true
+    },
+    {
+      "check": "defense accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "defense arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "defense no scripts",
+      "passed": true
+    },
+    {
+      "check": "egress accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "egress arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "egress no scripts",
+      "passed": true
+    },
+    {
+      "check": "file-read accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "file-read arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "file-read no scripts",
+      "passed": true
+    },
+    {
+      "check": "jwt accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "jwt arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "jwt no scripts",
+      "passed": true
+    },
+    {
+      "check": "lateral accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "lateral arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "lateral no scripts",
+      "passed": true
+    },
+    {
+      "check": "launchpad accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "launchpad arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "launchpad no scripts",
+      "passed": true
+    },
+    {
+      "check": "route accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "route arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "route no scripts",
+      "passed": true
+    },
+    {
+      "check": "scorer accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "scorer arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "scorer no scripts",
+      "passed": true
+    },
+    {
+      "check": "template accessible title/description",
+      "passed": true
+    },
+    {
+      "check": "template arrowhead definitions",
+      "passed": true
+    },
+    {
+      "check": "template no scripts",
+      "passed": true
+    }
+  ]
+}
